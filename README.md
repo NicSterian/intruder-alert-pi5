@@ -10,21 +10,21 @@ Short-range intruder detection using an HC-SR04 ultrasonic sensor and optional C
 
 | Trigger with image | Text-only mode |
 |-------------------|----------------|
-| ![Demo with image](docs/images/demo-with-image.png) | ![Demo text only](docs/images/demo-text-only.png) |
+| ![Discord notification with camera](docs/images/discord_notification_intruder_detected_with_camera_off.PNG) | ![Discord notification intruder detected](docs/images/discord_notification_intruder_detected.PNG) |
 
 **Runtime logs during a demo:**
 
-![Runtime logs](docs/images/runtime-logs.png)
+![Terminal running](docs/images/Terminal_running.jpg)
 
 ## 🧱 Architecture & Flow
 
 **High-level diagram**
 
-![Architecture diagram](docs/images/architecture-diagram.png)
+![Intruder Alert Diagram](docs/images/Intruder_Alert_Diagram.jpg)
 
 **Control flow**
 
-![Control flow](docs/images/control-flow.png)
+![Flowchart](docs/images/flowchart.png)
 
 ## ✨ Features
 
